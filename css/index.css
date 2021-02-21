@@ -1,0 +1,23 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  height: 100%;
+  width: 100%;
+  background-image: url(/image/bgc.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+.container {
+  width: 1200px;
+  margin: 0 auto;
+  padding-top: 450px;
+}
+.container h1 {
+  margin: 0px auto;
+  color: aqua;
+  font-size: 55px;
+  text-align: center;
+}
